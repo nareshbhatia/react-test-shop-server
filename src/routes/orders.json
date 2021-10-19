@@ -1,7 +1,8 @@
 [
   {
     "id": "3f9db14f-9d21-455a-b250-dbe28b05202a",
-    "orderItems": [
+    "createdAt": "2021-01-01T14:00:00.000Z",
+    "items": [
       {
         "productId": "apple-imac",
         "productName": "iMac",
@@ -33,7 +34,26 @@
   },
   {
     "id": "68e19edd-8a5e-4af2-a432-2e7ab04e7dcd",
-    "orderItems": [
+    "createdAt": "2021-07-09T14:00:00.000Z",
+    "items": [
+      {
+        "productId": "apple-imac",
+        "productName": "iMac",
+        "price": 1299,
+        "quantity": 1
+      },
+      {
+        "productId": "apple-ipad",
+        "productName": "iPad",
+        "price": 249,
+        "quantity": 1
+      },
+      {
+        "productId": "nest-learning-thermostat",
+        "productName": "Nest Learning Thermostat",
+        "price": 249,
+        "quantity": 1
+      },
       {
         "productId": "gopro-hero",
         "productName": "GoPro HERO Session Action Camera",
@@ -53,7 +73,8 @@
   },
   {
     "id": "70871df2-7b8a-40fc-bb33-6d0d9af73dff",
-    "orderItems": [
+    "createdAt": "2021-03-05T14:00:00.000Z",
+    "items": [
       {
         "productId": "canon-eos-rebel",
         "productName": "Canon EOS Rebel SL1",
@@ -73,7 +94,8 @@
   },
   {
     "id": "7df4f6d1-d5a0-454c-9bed-a6284e84c372",
-    "orderItems": [
+    "createdAt": "2021-02-05T14:00:00.000Z",
+    "items": [
       {
         "productId": "fitbit-charge-hr",
         "productName": "Fitbit Charge HR",

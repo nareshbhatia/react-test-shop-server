@@ -18,6 +18,7 @@ ordersRouter.post('/', (req, res) => {
   // Move cart items into the order
   const order: Order = {
     id: uuidv4(),
+    createdAt: new Date().toISOString(),
     items: clearCart(),
     shippingAddress: checkoutInfo.shippingAddress,
   };
